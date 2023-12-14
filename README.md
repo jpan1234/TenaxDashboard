@@ -1,2 +1,2 @@
-# TenaxDashboard
-Final project for DS 4200 - Information Visualization
+# DS4200-Project
+Project to create Massachusetts cannabis industry data dashboard for Tenax Strategies.

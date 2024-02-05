@@ -25,7 +25,7 @@ The script depends on several Python libraries, including `json`, `pandas`, `req
 This script is part of a larger system and may not function as expected if run in isolation. Always ensure it is used in its intended context.
 
 ## Tableau Dashboard
-Using the data scraped from the Cannabis Control Commission Massachusetts, a Tableau dashboard implemented.
+Using the data scraped from the Cannabis Control Commission Massachusetts, a Tableau dashboard was implemented.
 
 ## Visualizations
 <img width="1028" alt="image" src="https://github.com/jpan1234/TenaxDashboard/assets/122037319/389d894a-3f42-4c13-8862-d6f6f158a869">
